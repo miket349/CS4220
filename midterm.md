@@ -34,7 +34,7 @@ Give a code example of your module (5 - 10 lines) and of the competitor (5 - 10 
 ####Suggestions
 
 - mongodb <br/>
--- Ernesto, Rafik, Tee, Yuan
+-- Ernesto, Rafik, Tee, Yuan, Mikey
 
 - rword <br/>
 -- Phillip, Alfredo, Stephanie, Felipe, Jose
